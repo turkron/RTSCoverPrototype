@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9249080b1e53d424ab2b386fb68dd608
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selectionGlow: {fileID: 100000, guid: 109beb4025676124dbd000de632ac6f5, type: 2}
+  - glow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
